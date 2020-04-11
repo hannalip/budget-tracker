@@ -17,4 +17,3 @@ The Budget Tracker application to allow for offline access and functionality.The
 
 * [Budget Tracker] (https://thawing-river-86291.herokuapp.com/)
 
-Hannali
